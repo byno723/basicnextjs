@@ -12,6 +12,7 @@ export default function Home(){
         <Image src="/user.jpg" width={200} height={200} alt="Profile"/>
         <h1 className={styles['title-homepage']}>Gorbyno</h1>
         <p>tes deploy </p>
+        <p>vercel keren amat</p>
       </Layout>
     </>
     );
